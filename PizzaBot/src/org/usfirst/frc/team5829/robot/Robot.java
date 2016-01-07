@@ -24,6 +24,8 @@ public class Robot extends IterativeRobot {
 	RobotDrive mainDrive = new RobotDrive(1,2,3,4);
 	Victor hopper = new Victor(5);
 	Jaguar hopper2 = new Jaguar(6);
+	Jaguar hopper3 = new Jaguar(7);
+	//worthless comment
 	
 	
     public void robotInit() {
